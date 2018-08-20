@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10628643181",
+    "firebase_url": "https://invoice-on-tap.firebaseio.com",
+    "project_id": "invoice-on-tap",
+    "storage_bucket": "invoice-on-tap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10628643181:android:ff835631ddced05c",
+        "android_client_info": {
+          "package_name": "com.psychotech.anuragraphy.sedat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10628643181-n0nb4oc66e93mi24ni0gbm8fbhfdtqeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtbOvB_B4y5c0Txf43pJbJ5TRIAO_WHk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

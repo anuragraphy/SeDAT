@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SeDAT</string>
+    <string name="My_Orders">My Orders</string>
+    <string name="Book">Book Service</string>
+    <string name="Rate">Rate</string>
+    <string name="Tax">Tax</string>
+    <string name="Dis">Discount</string>
+    <string name="grand">Grand Total</string>
+    <string name="start">Start Time</string>
+    <string name="end">End Time</string>
+    <string name="total">Total Time</string>
+    <string name="pay">Payment Status</string>
+    <string name="req">Service required for?</string>
+    <string name="add">Enter your Address</string>
+</resources>
